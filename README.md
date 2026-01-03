@@ -1,4 +1,4 @@
-<img width="1332" height="1071" alt="image" src="https://github.com/user-attachments/assets/e7440430-720c-4802-8d92-26850207a816" />
+<img width="1332" height="1069" alt="image" src="https://github.com/user-attachments/assets/ff5c62a8-9590-4d70-83d4-43061080d87c" />
 
 # AGSE
 
@@ -36,17 +36,16 @@ https://github.com/bugmaschine/AGSE/releases
 Planned features include:
 
 - Additional smart quick actions  
-  - Reparing car componenets  
-  - Resetting fines
+  - Reparing car componenets
   - Sobering the player up
   - An map for finding items
   - Diagnosing the Car
 - Improved save details view
-- Advanced editor mode for experienced users
 - General UI polish and quality-of-life improvements
 - Profile Presets
 - Backup handling
-
+- VIN Editing
+  
 ---
 
 ## Disclaimer
